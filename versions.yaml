@@ -14,3 +14,4 @@ components:
   cloudify-puppet-plugin: '1.3.1'
   flask-securest: '0.8'
   tosca-vcloud-plugin: '1.3.1'
+  default_tosca_definitions_version: '1_3'
