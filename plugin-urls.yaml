@@ -1,0 +1,36 @@
+plugins:
+  - name: diamond_redhat_maipo
+    wgn_url: http://repository.cloudifysource.org/org/cloudify3/wagons/cloudify-diamond-plugin/1.3.2/cloudify_diamond_plugin-1.3.2-py27-none-linux_x86_64-redhat-Maipo.wgn
+    plugin_yaml_url: http://www.getcloudify.org/spec/diamond-plugin/1.3.2/plugin.yaml
+  - name: diamond_centos_core
+    wgn_url: http://repository.cloudifysource.org/org/cloudify3/wagons/cloudify-diamond-plugin/1.3.2/cloudify_diamond_plugin-1.3.2-py27-none-linux_x86_64-centos-Core.wgn
+    plugin_yaml_url: http://www.getcloudify.org/spec/diamond-plugin/1.3.2/plugin.yaml
+  - name: diamond_centos_final
+    wgn_url: http://repository.cloudifysource.org/org/cloudify3/wagons/cloudify-diamond-plugin/1.3.2/cloudify_diamond_plugin-1.3.2-py26-none-linux_x86_64-centos-Final.wgn
+    plugin_yaml_url: http://www.getcloudify.org/spec/diamond-plugin/1.3.2/plugin.yaml
+  - name: diamond_ubuntu_precise
+    wgn_url: http://repository.cloudifysource.org/org/cloudify3/wagons/cloudify-diamond-plugin/1.3.2/cloudify_diamond_plugin-1.3.2-py27-none-linux_x86_64-Ubuntu-precise.wgn
+    plugin_yaml_url: http://www.getcloudify.org/spec/diamond-plugin/1.3.2/plugin.yaml
+  - name: diamond_ubuntu_trusty
+    wgn_url: http://repository.cloudifysource.org/org/cloudify3/wagons/cloudify-diamond-plugin/1.3.2/cloudify_diamond_plugin-1.3.2-py27-none-linux_x86_64-Ubuntu-trusty.wgn
+    plugin_yaml_url: http://www.getcloudify.org/spec/diamond-plugin/1.3.2/plugin.yaml
+  - name: fabric_centos_core
+    wgn_url: http://repository.cloudifysource.org/org/cloudify3/wagons/cloudify-fabric-plugin/1.4/cloudify_fabric_plugin-1.4-py27-none-linux_x86_64-centos-Core.wgn
+    plugin_yaml_url: http://www.getcloudify.org/spec/fabric-plugin/1.4/plugin.yaml
+  - name: aws_centos_core
+    wgn_url: http://repository.cloudifysource.org/org/cloudify3/wagons/cloudify-aws-plugin/1.4/cloudify_aws_plugin-1.4-py27-none-linux_x86_64-centos-Core.wgn
+    plugin_yaml_url: http://www.getcloudify.org/spec/aws-plugin/1.4/plugin.yaml
+  - name: aws_redhat_maipo
+    wgn_url: http://repository.cloudifysource.org/org/cloudify3/wagons/cloudify-aws-plugin/1.4/cloudify_aws_plugin-1.4-py27-none-linux_x86_64-redhat-Maipo.wgn
+    plugin_yaml_url: http://www.getcloudify.org/spec/aws-plugin/1.4/plugin.yaml
+  - name: openstack_centos_core
+    wgn_url: http://repository.cloudifysource.org/org/cloudify3/wagons/cloudify-openstack-plugin/1.3.1/cloudify_openstack_plugin-1.3.1-py27-none-linux_x86_64-centos-Core.wgn
+    plugin_yaml_url: http://www.getcloudify.org/spec/openstack-plugin/1.3.1/plugin.yaml
+  - name: vcloud_centos_core
+    wgn_url: http://repository.cloudifysource.org/org/cloudify3/wagons/tosca-vcloud-plugin/1.3.1/cloudify_vcloud_plugin-1.3.1-py27-none-linux_x86_64-centos-Core.wgn
+    plugin_yaml_url: http://www.getcloudify.org/spec/tosca-vcloud-plugin/1.3.1/plugin.yaml
+  - name: vsphere_centos_core
+    wgn_url: http://repository.cloudifysource.org/org/cloudify3/wagons/cloudify-vsphere-plugin/2.0/cloudify_vsphere_plugin-2.0-py27-none-linux_x86_64-centos-Core.wgn
+    plugin_yaml_url: http://www.getcloudify.org/spec/vsphere-plugin/2.0/plugin.yaml
+
+types: http://www.getcloudify.org/spec/cloudify/3.4m5/types.yaml
