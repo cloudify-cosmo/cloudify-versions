@@ -1,7 +1,7 @@
-http://repository.cloudifysource.org/org/cloudify3/4.0.0/m1-RELEASE/Ubuntu-trusty-agent_4.0.0-m1-b461.tar.gz
-http://repository.cloudifysource.org/org/cloudify3/4.0.0/m1-RELEASE/Ubuntu-precise-agent_4.0.0-m1-b461.tar.gz
-http://repository.cloudifysource.org/org/cloudify3/4.0.0/m1-RELEASE/centos-Core-agent_4.0.0-m1-b461.tar.gz
-http://repository.cloudifysource.org/org/cloudify3/4.0.0/m1-RELEASE/centos-Final-agent_4.0.0-m1-b461.tar.gz
-http://repository.cloudifysource.org/org/cloudify3/4.0.0/m1-RELEASE/redhat-Maipo-agent_4.0.0-m1-b461.tar.gz
-http://repository.cloudifysource.org/org/cloudify3/4.0.0/m1-RELEASE/redhat-Santiago-agent_4.0.0-m1-b461.tar.gz
-http://repository.cloudifysource.org/org/cloudify3/4.0.0/m1-RELEASE/cloudify-windows-agent_4.0.0-m1-b461.exe
+http://repository.cloudifysource.org/org/cloudify3/4.0.0/m2-RELEASE/Ubuntu-trusty-agent_4.0.0-m2-b462.tar.gz
+http://repository.cloudifysource.org/org/cloudify3/4.0.0/m2-RELEASE/Ubuntu-precise-agent_4.0.0-m2-b462.tar.gz
+http://repository.cloudifysource.org/org/cloudify3/4.0.0/m2-RELEASE/centos-Core-agent_4.0.0-m2-b462.tar.gz
+http://repository.cloudifysource.org/org/cloudify3/4.0.0/m2-RELEASE/centos-Final-agent_4.0.0-m2-b462.tar.gz
+http://repository.cloudifysource.org/org/cloudify3/4.0.0/m2-RELEASE/redhat-Maipo-agent_4.0.0-m2-b462.tar.gz
+http://repository.cloudifysource.org/org/cloudify3/4.0.0/m2-RELEASE/redhat-Santiago-agent_4.0.0-m2-b462.tar.gz
+http://repository.cloudifysource.org/org/cloudify3/4.0.0/m2-RELEASE/cloudify-windows-agent_4.0.0-m2-b462.exe
