@@ -39,11 +39,11 @@ plugins:
     wgn_url: http://repository.cloudifysource.org/org/cloudify3/wagons/cloudify-host-pool-plugin/1.4/cloudify_host_pool_plugin-1.4-py27-none-linux_x86_64-centos-Core.wgn
     plugin_yaml_url: http://www.getcloudify.org/spec/host-pool-plugin/1.4/plugin.yaml
   - name: openstack_centos_core
-    wgn_url: http://repository.cloudifysource.org/org/cloudify3/wagons/cloudify-openstack-plugin/1.4/cloudify_openstack_plugin-1.4-py27-none-linux_x86_64-centos-Core.wgn
-    plugin_yaml_url: http://www.getcloudify.org/spec/openstack-plugin/1.4/plugin.yaml
+    wgn_url: http://repository.cloudifysource.org/org/cloudify3/wagons/cloudify-openstack-plugin/1.5/cloudify_openstack_plugin-1.5-py27-none-linux_x86_64-centos-Core.wgn
+    plugin_yaml_url: http://www.getcloudify.org/spec/openstack-plugin/1.5/plugin.yaml
   - name: openstack_redhat_maipo
-    wgn_url: http://repository.cloudifysource.org/org/cloudify3/wagons/cloudify-openstack-plugin/1.4/cloudify_openstack_plugin-1.4-py27-none-linux_x86_64-redhat-Maipo.wgn
-    plugin_yaml_url: http://www.getcloudify.org/spec/openstack-plugin/1.4/plugin.yaml
+    wgn_url: http://repository.cloudifysource.org/org/cloudify3/wagons/cloudify-openstack-plugin/1.5/cloudify_openstack_plugin-1.5-py27-none-linux_x86_64-redhat-Maipo.wgn
+    plugin_yaml_url: http://www.getcloudify.org/spec/openstack-plugin/1.5/plugin.yaml
   - name: psutil_windows
     wgn_url: http://repository.cloudifysource.org/org/cloudify3/wagons/cloudify-psutil-plugin/1.0.2/cloudify_psutil_plugin-1.0.2-py27-none-win32-none-none.wgn
     plugin_yaml_url: http://www.getcloudify.org/spec/psutil-plugin/1.0.2/plugin.yaml
