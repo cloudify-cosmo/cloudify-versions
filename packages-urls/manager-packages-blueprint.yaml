@@ -18,6 +18,11 @@ http://repository.cloudifysource.org/org/cloudify3/components/postgresql95-libs-
 http://repository.cloudifysource.org/org/cloudify3/components/postgresql95-server-9.5.3-2PGDG.rhel7.x86_64.rpm
 http://repository.cloudifysource.org/org/cloudify3/components/postgresql95-devel-9.5.3-2PGDG.rhel7.x86_64.rpm
 http://repository.cloudifysource.org/org/cloudify3/components/python-psycopg2-2.5.1-3.el7.x86_64.rpm
+http://repository.cloudifysource.org/org/cloudify3/components/repmgr95-3.1.3-1.rhel7.x86_64.rpm
+http://repository.cloudifysource.org/org/cloudify3/components/pgbouncer-1.7.2-5.rhel7.x86_64.rpm
+http://repository.cloudifysource.org/org/cloudify3/components/consul_0.6.4_linux_amd64.zip
+http://repository.cloudifysource.org/org/cloudify3/components/syncthing-linux-amd64-v0.14.5.tar.gz
+http://repository.cloudifysource.org/org/cloudify3/components/keepalived-1.2.13-7.el7.x86_64.rpm
 http://gigaspaces-repository-eu.s3.amazonaws.com/org/cloudify3/4.0.0/m4-RELEASE/cloudify-rest-service-4.0.0-m4_b464.x86_64.rpm
 http://gigaspaces-repository-eu.s3.amazonaws.com/org/cloudify3/4.0.0/m4-RELEASE/cloudify-management-worker-4.0.0-m4_b464.x86_64.rpm
 http://gigaspaces-repository-eu.s3.amazonaws.com/org/cloudify3/4.0.0/m4-RELEASE/cloudify-amqp-influx-4.0.0-m4_b464.x86_64.rpm
