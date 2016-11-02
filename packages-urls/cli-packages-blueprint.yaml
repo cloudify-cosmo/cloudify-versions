@@ -1,5 +1,5 @@
 
 cli_package_urls:
-     windows_cli_package_url: http://gigaspaces-repository-eu.s3.amazonaws.com/org/cloudify3/4.0.0/m6-RELEASE/cloudify-windows-cli_4.0.0-m6-b466.exe
-     rhel_centos_cli_package_url: http://gigaspaces-repository-eu.s3.amazonaws.com/org/cloudify3/4.0.0/m6-RELEASE/cloudify-4.0.0~m6-466.el6.x86_64.rpm
-     debian_cli_package_url: http://gigaspaces-repository-eu.s3.amazonaws.com/org/cloudify3/4.0.0/m6-RELEASE/cloudify_4.0.0~m6-466_amd64.deb
+     windows_cli_package_url: http://gigaspaces-repository-eu.s3.amazonaws.com/org/cloudify3/4.0.0/m7-RELEASE/cloudify-windows-cli_4.0.0-m7-b467.exe
+     rhel_centos_cli_package_url: http://gigaspaces-repository-eu.s3.amazonaws.com/org/cloudify3/4.0.0/m7-RELEASE/cloudify-4.0.0~m7-467.el6.x86_64.rpm
+     debian_cli_package_url: http://gigaspaces-repository-eu.s3.amazonaws.com/org/cloudify3/4.0.0/m7-RELEASE/cloudify_4.0.0~m7-467_amd64.deb
