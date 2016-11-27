@@ -1,5 +1,5 @@
 
-cli_package_urls:
+cli_packages_urls:
      windows_cli_package_url: http://gigaspaces-repository-eu.s3.amazonaws.com/org/cloudify3/4.0.0/m8-RELEASE/cloudify-windows-cli_4.0.0-m8-b468.exe
      rhel_centos_cli_package_url: http://gigaspaces-repository-eu.s3.amazonaws.com/org/cloudify3/4.0.0/m8-RELEASE/cloudify-4.0.0~m8-468.el6.x86_64.rpm
      debian_cli_package_url: http://gigaspaces-repository-eu.s3.amazonaws.com/org/cloudify3/4.0.0/m8-RELEASE/cloudify_4.0.0~m8-468_amd64.deb
