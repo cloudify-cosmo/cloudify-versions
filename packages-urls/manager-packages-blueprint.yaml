@@ -23,10 +23,10 @@ http://repository.cloudifysource.org/cloudify/components/pgbouncer-1.7.2-5.rhel7
 http://repository.cloudifysource.org/cloudify/components/consul_0.6.4_linux_amd64.zip
 http://repository.cloudifysource.org/cloudify/components/syncthing-linux-amd64-v0.14.5.tar.gz
 http://repository.cloudifysource.org/cloudify/components/keepalived-1.2.13-7.el7.x86_64.rpm
-http://gigaspaces-repository-eu.s3.amazonaws.com/cloudify/16.12.1/release/cloudify-rest-service-4.0.0-m9.x86_64.rpm
-http://gigaspaces-repository-eu.s3.amazonaws.com/cloudify/16.12.1/release/cloudify-management-worker-4.0.0-m9.x86_64.rpm
-http://gigaspaces-repository-eu.s3.amazonaws.com/cloudify/16.12.1/release/cloudify-amqp-influx-4.0.0-m9.x86_64.rpm
-http://gigaspaces-repository-eu.s3.amazonaws.com/cloudify/16.12.1/release/cloudify-ui-4.0.0-m9.tgz
+http://gigaspaces-repository-eu.s3.amazonaws.com/cloudify/16.12.1/release/cloudify-rest-service-16.12.1-community.x86_64.rpm
+http://gigaspaces-repository-eu.s3.amazonaws.com/cloudify/16.12.1/release/cloudify-management-worker-16.12.1-community.x86_64.rpm
+http://gigaspaces-repository-eu.s3.amazonaws.com/cloudify/16.12.1/release/cloudify-amqp-influx-16.12.1-community.x86_64.rpm
+http://gigaspaces-repository-eu.s3.amazonaws.com/cloudify/16.12.1/release/cloudify-ui-16.12.1-community.tgz
 http://gigaspaces-repository-eu.s3.amazonaws.com/cloudify/components/grafana-1.9.0.tgz
-http://gigaspaces-repository-eu.s3.amazonaws.com/cloudify/16.12.1/release/cloudify-manager-4.0m9.tar.gz
-http://gigaspaces-repository-eu.s3.amazonaws.com/cloudify/16.12.1/release/cloudify-hello-world-example-4.0m9.tar.gz
+http://gigaspaces-repository-eu.s3.amazonaws.com/cloudify/16.12.1/release/cloudify-manager-master.tar.gz
+http://gigaspaces-repository-eu.s3.amazonaws.com/cloudify/16.12.1/release/cloudify-hello-world-example-master.tar.gz
