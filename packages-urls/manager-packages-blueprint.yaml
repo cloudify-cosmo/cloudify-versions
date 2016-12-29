@@ -26,6 +26,6 @@ http://repository.cloudifysource.org/cloudify/components/keepalived-1.2.13-7.el7
 http://gigaspaces-repository-eu.s3.amazonaws.com/cloudify/16.12.1/release/cloudify-rest-service-16.12.1-community.x86_64.rpm
 http://gigaspaces-repository-eu.s3.amazonaws.com/cloudify/16.12.1/release/cloudify-management-worker-16.12.1-community.x86_64.rpm
 http://gigaspaces-repository-eu.s3.amazonaws.com/cloudify/16.12.1/release/cloudify-amqp-influx-16.12.1-community.x86_64.rpm
-http://gigaspaces-repository-eu.s3.amazonaws.com/cloudify/16.12.1/release/cloudify-manager-master.tar.gz
-http://gigaspaces-repository-eu.s3.amazonaws.com/cloudify/16.12.1/release/cloudify-hello-world-example-master.tar.gz
+http://gigaspaces-repository-eu.s3.amazonaws.com/cloudify/16.12.1/release/cloudify-manager-16.12.1.tar.gz
+http://gigaspaces-repository-eu.s3.amazonaws.com/cloudify/16.12.1/release/cloudify-hello-world-example-16.12.1.tar.gz
 http://gigaspaces-repository-eu.s3.amazonaws.com/cloudify/16.12.1/builds/metadata.json
