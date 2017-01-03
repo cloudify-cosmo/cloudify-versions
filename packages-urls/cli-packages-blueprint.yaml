@@ -1,5 +1,0 @@
-
-cli_packages_urls:
-     windows_cli_package_url: http://gigaspaces-repository-eu.s3.amazonaws.com/org/cloudify3/4.0.0/m11-RELEASE/cloudify-windows-cli_4.0.0-m11.exe
-     rhel_centos_cli_package_url: http://gigaspaces-repository-eu.s3.amazonaws.com/org/cloudify3/4.0.0/m11-RELEASE/cloudify-4.0.0~m11.el6.x86_64.rpm
-     debian_cli_package_url: http://gigaspaces-repository-eu.s3.amazonaws.com/org/cloudify3/4.0.0/m11-RELEASE/cloudify_4.0.0~m11_amd64.deb
