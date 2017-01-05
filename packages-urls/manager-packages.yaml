@@ -10,7 +10,6 @@ http://repository.cloudifysource.org/cloudify/components/influxdb-0.8.8-1.x86_64
 http://repository.cloudifysource.org/cloudify/components/riemann-0.2.6-1.noarch.rpm
 http://repository.cloudifysource.org/cloudify/components/langohr.jar
 http://repository.cloudifysource.org/cloudify/components/daemonize-1.7.3-7.el7.x86_64.rpm
-http://repository.cloudifysource.org/cloudify/components/node-v0.10.35-linux-x64.tar.gz
 http://repository.cloudifysource.org/cloudify/components/libxslt-1.1.28-5.el7.x86_64.rpm
 http://repository.cloudifysource.org/cloudify/components/postgresql95-9.5.3-2PGDG.rhel7.x86_64.rpm
 http://repository.cloudifysource.org/cloudify/components/postgresql95-contrib-9.5.3-2PGDG.rhel7.x86_64.rpm
