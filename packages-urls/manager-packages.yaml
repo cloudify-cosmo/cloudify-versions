@@ -22,6 +22,7 @@ http://repository.cloudifysource.org/cloudify/components/pgbouncer-1.7.2-5.rhel7
 http://repository.cloudifysource.org/cloudify/components/consul_0.7.2_linux_amd64.zip
 http://repository.cloudifysource.org/cloudify/components/syncthing-linux-amd64-v0.14.5.tar.gz
 http://repository.cloudifysource.org/cloudify/components/keepalived-1.2.13-7.el7.x86_64.rpm
+http://repository.cloudifysource.org/cloudify/components/logstash-output-jdbc-0.2.10.gem
 http://gigaspaces-repository-eu.s3.amazonaws.com/cloudify/16.12.1/release/cloudify-rest-service-16.12.1-community.x86_64.rpm
 http://gigaspaces-repository-eu.s3.amazonaws.com/cloudify/16.12.1/release/cloudify-management-worker-16.12.1-community.x86_64.rpm
 http://gigaspaces-repository-eu.s3.amazonaws.com/cloudify/16.12.1/release/cloudify-amqp-influx-16.12.1-community.x86_64.rpm
