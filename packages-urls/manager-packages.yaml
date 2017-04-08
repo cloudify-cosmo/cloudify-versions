@@ -21,6 +21,7 @@ http://repository.cloudifysource.org/cloudify/components/consul_0.7.2_linux_amd6
 http://repository.cloudifysource.org/cloudify/components/syncthing-linux-amd64-v0.14.5.tar.gz
 http://repository.cloudifysource.org/cloudify/components/keepalived-1.2.13-7.el7.x86_64.rpm
 http://repository.cloudifysource.org/cloudify/components/logstash-output-jdbc-0.2.10.gem
+http://repository.cloudifysource.org/cloudify/components/logstash-filter-json_encode-0.1.5.gem
 http://repository.cloudifysource.org/cloudify/components/postgresql-9.4.1212.jar
 http://repository.cloudifysource.org/cloudify/components/node-v4.4.5-linux-x64.tar.gz
 http://gigaspaces-repository-eu.s3.amazonaws.com/cloudify/17.3.31/release/cloudify-rest-service-17.3.31-community.x86_64.rpm
