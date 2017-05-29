@@ -36,8 +36,8 @@ plugins:
     wgn_url: http://repository.cloudifysource.org/cloudify/wagons/cloudify-gcp-plugin/1.0/cloudify_gcp_plugin-1.0-py27-none-linux_x86_64-centos-Core.wgn
     plugin_yaml_url: http://www.getcloudify.org/spec/gcp-plugin/1.0/plugin.yaml
   - name: host-pool_centos_core
-    wgn_url: http://repository.cloudifysource.org/cloudify/wagons/cloudify-host-pool-plugin/1.4/cloudify_host_pool_plugin-1.4-py27-none-linux_x86_64-centos-Core.wgn
-    plugin_yaml_url: http://www.getcloudify.org/spec/host-pool-plugin/1.4/plugin.yaml
+    wgn_url: http://repository.cloudifysource.org/cloudify/wagons/cloudify-host-pool-plugin/1.5/cloudify_host_pool_plugin-1.5-py27-none-linux_x86_64-centos-Core.wgn
+    plugin_yaml_url: http://www.getcloudify.org/spec/host-pool-plugin/1.5/plugin.yaml
   - name: openstack_centos_core
     wgn_url: http://repository.cloudifysource.org/cloudify/wagons/cloudify-openstack-plugin/2.0.1/cloudify_openstack_plugin-2.0.1-py27-none-linux_x86_64-centos-Core.wgn
     plugin_yaml_url: http://www.getcloudify.org/spec/openstack-plugin/2.0.1/plugin.yaml
