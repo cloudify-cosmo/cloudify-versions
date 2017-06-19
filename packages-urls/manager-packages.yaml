@@ -3,7 +3,7 @@ http://repository.cloudifysource.org/cloudify/components/jre1.8.0_45-1.8.0_45-fc
 http://repository.cloudifysource.org/cloudify/components/erlang-17.4-1.el6.x86_64.rpm
 http://repository.cloudifysource.org/cloudify/components/rabbitmq-server-3.5.3-1.noarch.rpm
 http://repository.cloudifysource.org/cloudify/components/logstash-1.5.0-1.noarch.rpm
-http://repository.cloudifysource.org/cloudify/components/nginx-1.8.0-1.el7.ngx.x86_64.rpm
+http://repository.cloudifysource.org/cloudify/components/nginx-1.12.0-1.el7.ngx.x86_64.rpm
 http://repository.cloudifysource.org/cloudify/components/influxdb-0.8.8-1.x86_64.rpm
 http://repository.cloudifysource.org/cloudify/components/riemann-0.2.6-1.noarch.rpm
 http://repository.cloudifysource.org/cloudify/components/langohr.jar
