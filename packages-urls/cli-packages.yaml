@@ -1,5 +1,5 @@
 
 cli_packages_urls:
-     windows_cli_package_url: http://gigaspaces-repository-eu.s3.amazonaws.com/cloudify/17.4.11/release/cloudify-windows-cli_17.4.11-community.exe
-     rhel_centos_cli_package_url: http://gigaspaces-repository-eu.s3.amazonaws.com/cloudify/17.4.11/release/cloudify-17.4.11~community.el6.x86_64.rpm
-     debian_cli_package_url: http://gigaspaces-repository-eu.s3.amazonaws.com/cloudify/17.4.11/release/cloudify_17.4.11~community_amd64.deb
+     windows_cli_package_url: http://gigaspaces-repository-eu.s3.amazonaws.com/cloudify/17.6.30/release/cloudify-windows-cli_17.6.30-community.exe
+     rhel_centos_cli_package_url: http://gigaspaces-repository-eu.s3.amazonaws.com/cloudify/17.6.30/release/cloudify-17.6.30~community.el6.x86_64.rpm
+     debian_cli_package_url: http://gigaspaces-repository-eu.s3.amazonaws.com/cloudify/17.6.30/release/cloudify_17.6.30~community_amd64.deb
