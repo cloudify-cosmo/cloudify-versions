@@ -7,6 +7,6 @@ components:
   cloudify-host-pool-plugin: '1.5'
   cloudify-openstack-plugin: '2.0.1'
   cloudify-psutil-plugin: '1.0.2'
-  cloudify-script-plugin: '1.5'
+  cloudify-script-plugin: '1.5.1'
   cloudify-vsphere-plugin: '2.3.0'
   default_tosca_definitions_version: '1_3'
