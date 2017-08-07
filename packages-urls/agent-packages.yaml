@@ -1,8 +1,8 @@
-http://repository.cloudifysource.org/cloudify/17.11.1/release/Ubuntu-trusty-agent_17.11.1-community.tar.gz
-http://repository.cloudifysource.org/cloudify/17.11.1/release/Ubuntu-precise-agent_17.11.1-community.tar.gz
-http://repository.cloudifysource.org/cloudify/17.11.1/release/Ubuntu-xenial-agent_17.11.1-community.tar.gz
-http://repository.cloudifysource.org/cloudify/17.11.1/release/centos-Core-agent_17.11.1-community.tar.gz
-http://repository.cloudifysource.org/cloudify/17.11.1/release/centos-Final-agent_17.11.1-community.tar.gz
-http://repository.cloudifysource.org/cloudify/17.11.1/release/redhat-Maipo-agent_17.11.1-community.tar.gz
-http://repository.cloudifysource.org/cloudify/17.11.1/release/redhat-Santiago-agent_17.11.1-community.tar.gz
-http://repository.cloudifysource.org/cloudify/17.11.1/release/cloudify-windows-agent_17.11.1-community.exe
+http://repository.cloudifysource.org/cloudify/17.8.1/release/Ubuntu-trusty-agent_17.8.1-community.tar.gz
+http://repository.cloudifysource.org/cloudify/17.8.1/release/Ubuntu-precise-agent_17.8.1-community.tar.gz
+http://repository.cloudifysource.org/cloudify/17.8.1/release/Ubuntu-xenial-agent_17.8.1-community.tar.gz
+http://repository.cloudifysource.org/cloudify/17.8.1/release/centos-Core-agent_17.8.1-community.tar.gz
+http://repository.cloudifysource.org/cloudify/17.8.1/release/centos-Final-agent_17.8.1-community.tar.gz
+http://repository.cloudifysource.org/cloudify/17.8.1/release/redhat-Maipo-agent_17.8.1-community.tar.gz
+http://repository.cloudifysource.org/cloudify/17.8.1/release/redhat-Santiago-agent_17.8.1-community.tar.gz
+http://repository.cloudifysource.org/cloudify/17.8.1/release/cloudify-windows-agent_17.8.1-community.exe
