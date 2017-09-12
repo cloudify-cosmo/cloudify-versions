@@ -21,9 +21,9 @@ http://repository.cloudifysource.org/cloudify/components/logstash-output-jdbc-0.
 http://repository.cloudifysource.org/cloudify/components/logstash-filter-json_encode-0.1.5.gem
 http://repository.cloudifysource.org/cloudify/components/postgresql-9.4.1212.jar
 http://repository.cloudifysource.org/cloudify/components/node-v4.4.5-linux-x64.tar.gz
-http://gigaspaces-repository-eu.s3.amazonaws.com/cloudify/17.9.21/release/cloudify-rest-service-17.9.21-community.x86_64.rpm
-http://gigaspaces-repository-eu.s3.amazonaws.com/cloudify/17.9.21/release/cloudify-management-worker-17.9.21-community.x86_64.rpm
-http://gigaspaces-repository-eu.s3.amazonaws.com/cloudify/17.9.21/release/cloudify-amqp-influx-17.9.21-community.x86_64.rpm
-http://gigaspaces-repository-eu.s3.amazonaws.com/cloudify/17.9.21/release/cloudify-manager-17.9.21.tar.gz
-http://gigaspaces-repository-eu.s3.amazonaws.com/cloudify/17.9.21/release/cloudify-hello-world-example-17.9.21.tar.gz
-http://gigaspaces-repository-eu.s3.amazonaws.com/cloudify/17.9.21/release/metadata.json
+http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.9.21/release/cloudify-rest-service-17.9.21-community.x86_64.rpm
+http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.9.21/release/cloudify-management-worker-17.9.21-community.x86_64.rpm
+http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.9.21/release/cloudify-amqp-influx-17.9.21-community.x86_64.rpm
+http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.9.21/release/cloudify-manager-17.9.21.tar.gz
+http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.9.21/release/cloudify-hello-world-example-17.9.21.tar.gz
+http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.9.21/release/metadata.json
