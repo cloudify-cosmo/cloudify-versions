@@ -21,10 +21,10 @@ http://repository.cloudifysource.org/cloudify/components/logstash-output-jdbc-0.
 http://repository.cloudifysource.org/cloudify/components/logstash-filter-json_encode-0.1.5.gem
 http://repository.cloudifysource.org/cloudify/components/postgresql-9.4.1212.jar
 http://repository.cloudifysource.org/cloudify/components/node-v4.4.5-linux-x64.tar.gz
-http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.10.5/release/cloudify-rest-service-17.10.5-community.x86_64.rpm
-http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.10.5/release/cloudify-management-worker-17.10.5-community.x86_64.rpm
-http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.10.5/release/cloudify-amqp-influx-17.10.5-community.x86_64.rpm
-http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.10.5/release/cloudify-stage-17.10.5-community.tgz
-http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.10.5/release/cloudify-manager-17.10.5.tar.gz
-http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.10.5/release/cloudify-hello-world-example-17.10.5.tar.gz
-http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.10.5/release/metadata.json
+http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.10.19/release/cloudify-rest-service-17.10.19-community.x86_64.rpm
+http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.10.19/release/cloudify-management-worker-17.10.19-community.x86_64.rpm
+http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.10.19/release/cloudify-amqp-influx-17.10.19-community.x86_64.rpm
+http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.10.19/release/cloudify-stage-17.10.19-community.tgz
+http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.10.19/release/cloudify-manager-17.10.19.tar.gz
+http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.10.19/release/cloudify-hello-world-example-17.10.19.tar.gz
+http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.10.19/release/metadata.json
