@@ -21,6 +21,9 @@ http://repository.cloudifysource.org/cloudify/components/logstash-output-jdbc-0.
 http://repository.cloudifysource.org/cloudify/components/logstash-filter-json_encode-0.1.5.gem
 http://repository.cloudifysource.org/cloudify/components/postgresql-9.4.1212.jar
 http://repository.cloudifysource.org/cloudify/components/node-v4.4.5-linux-x64.tar.gz
+http://repository.cloudifysource.org/cloudify/components/python-backports-1.0-8.el7.x86_64.rpm
+http://repository.cloudifysource.org/cloudify/components/python-backports-ssl_match_hostname-3.4.0.2-4.el7.noarch.rpm
+http://repository.cloudifysource.org/cloudify/components/python-setuptools-0.9.8-7.el7.noarch.rpm
 http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.10.29/release/cloudify-rest-service-17.10.29-community.x86_64.rpm
 http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.10.29/release/cloudify-management-worker-17.10.29-community.x86_64.rpm
 http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.10.29/release/cloudify-amqp-influx-17.10.29-community.x86_64.rpm
