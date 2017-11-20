@@ -48,4 +48,4 @@ plugins:
     wgn_url: http://repository.cloudifysource.org/cloudify/wagons/cloudify-vsphere-plugin/2.3.0/cloudify_vsphere_plugin-2.3.0-py27-none-linux_x86_64-redhat-Maipo.wgn
     plugin_yaml_url: http://www.getcloudify.org/spec/vsphere-plugin/2.3.0/plugin.yaml
 
-types: http://www.getcloudify.org/spec/cloudify/4.2/types.yaml
+types: http://www.getcloudify.org/spec/cloudify/4.3.dev1/types.yaml
