@@ -1,6 +1,6 @@
 
 cli_packages_urls:
-     windows_cli_package_url: http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.11.20/release/cloudify-windows-cli_17.11.20-community.exe
-     rhel_centos_cli_package_url: http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.11.20/release/cloudify-cli-17.11.20~community.el6.x86_64.rpm
-     debian_cli_package_url: http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.11.20/release/cloudify-cli_17.11.20~community_amd64.deb
-     osx_cli_package_url: http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.11.20/release/cloudify-cli-17.11.20-community.pkg
+     windows_cli_package_url: http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.11.26/release/cloudify-windows-cli_17.11.26-community.exe
+     rhel_centos_cli_package_url: http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.11.26/release/cloudify-cli-17.11.26~community.el6.x86_64.rpm
+     debian_cli_package_url: http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.11.26/release/cloudify-cli_17.11.26~community_amd64.deb
+     osx_cli_package_url: http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.11.26/release/cloudify-cli-17.11.26-community.pkg
