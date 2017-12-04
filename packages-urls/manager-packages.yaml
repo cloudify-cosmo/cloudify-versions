@@ -20,7 +20,7 @@ http://repository.cloudifysource.org/cloudify/components/syncthing-linux-amd64-v
 http://repository.cloudifysource.org/cloudify/components/logstash-output-jdbc-0.2.10.gem
 http://repository.cloudifysource.org/cloudify/components/logstash-filter-json_encode-0.1.5.gem
 http://repository.cloudifysource.org/cloudify/components/postgresql-9.4.1212.jar
-http://repository.cloudifysource.org/cloudify/components/node-v4.4.5-linux-x64.tar.gz
+http://repository.cloudifysource.org/cloudify/components/node-v8.9.1-linux-x64.tar.xz
 http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.12.14/release/cloudify-rest-service-17.12.14-community.x86_64.rpm
 http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.12.14/release/cloudify-management-worker-17.12.14-community.x86_64.rpm
 http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.12.14/release/cloudify-amqp-influx-17.12.14-community.x86_64.rpm
