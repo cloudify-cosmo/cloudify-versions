@@ -1,8 +1,8 @@
-http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.12.14/release/Ubuntu-trusty-agent_17.12.14-community.tar.gz
-http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.12.14/release/Ubuntu-precise-agent_17.12.14-community.tar.gz
-http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.12.14/release/Ubuntu-xenial-agent_17.12.14-community.tar.gz
-http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.12.14/release/centos-Core-agent_17.12.14-community.tar.gz
-http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.12.14/release/centos-Final-agent_17.12.14-community.tar.gz
-http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.12.14/release/redhat-Maipo-agent_17.12.14-community.tar.gz
-http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.12.14/release/redhat-Santiago-agent_17.12.14-community.tar.gz
-http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.12.14/release/cloudify-windows-agent_17.12.14-community.exe
+http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.12.28/release/Ubuntu-trusty-agent_17.12.28-community.tar.gz
+http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.12.28/release/Ubuntu-precise-agent_17.12.28-community.tar.gz
+http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.12.28/release/Ubuntu-xenial-agent_17.12.28-community.tar.gz
+http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.12.28/release/centos-Core-agent_17.12.28-community.tar.gz
+http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.12.28/release/centos-Final-agent_17.12.28-community.tar.gz
+http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.12.28/release/redhat-Maipo-agent_17.12.28-community.tar.gz
+http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.12.28/release/redhat-Santiago-agent_17.12.28-community.tar.gz
+http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.12.28/release/cloudify-windows-agent_17.12.28-community.exe
