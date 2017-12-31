@@ -28,4 +28,4 @@ http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.12.28/release/cloudify-s
 http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.12.28/release/cloudify-manager-17.12.28.tar.gz
 http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.12.28/release/cloudify-hello-world-example-17.12.28.tar.gz
 http://cloudify-release-eu.s3.amazonaws.com/cloudify/17.12.28/release/metadata.json
-https://cloudify-release-eu.s3.amazonaws.com/cloudify/4.3/release/cloudify-rest-service-4.3-0.1.el7.centos.x86_64.rpm
+https://cloudify-release-eu.s3.amazonaws.com/cloudify/4.3/.dev1-release/cloudify-premium-4.3-dev1.el7.centos.x86_64.rpm
