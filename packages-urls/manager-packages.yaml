@@ -27,6 +27,6 @@ http://cloudify-release-eu.s3.amazonaws.com/cloudify/18.1.11/release/cloudify-st
 http://cloudify-release-eu.s3.amazonaws.com/cloudify/18.1.11/release/cloudify-manager-18.1.11.tar.gz
 http://cloudify-release-eu.s3.amazonaws.com/cloudify/18.1.11/release/cloudify-hello-world-example-18.1.11.tar.gz
 http://cloudify-release-eu.s3.amazonaws.com/cloudify/18.1.11/release/metadata.json
-https://cloudify-release-eu.s3.amazonaws.com/cloudify/4.3/.dev1-release/cloudify-rest-service-4.3-dev1.el7.centos.x86_64.rpm
-https://cloudify-release-eu.s3.amazonaws.com/cloudify/4.3/.dev1-release/cloudify-rabbitmq-4.3-dev1.el7.centos.noarch.rpm
+http://cloudify-release-eu.s3.amazonaws.com/cloudify/4.3/.dev1-release/cloudify-rest-service-4.3-dev1.el7.x86_64.rpm
+http://cloudify-release-eu.s3.amazonaws.com/cloudify/4.3/.dev1-release/cloudify-rabbitmq-4.3-dev1.el7.noarch.rpm
 http://cloudify-release-eu.s3.amazonaws.com/cloudify/4.3/.dev1-release/cloudify-management-worker-4.3-dev1.el7.x86_64.rpm
