@@ -22,7 +22,7 @@ http://repository.cloudifysource.org/cloudify/components/logstash-output-jdbc-0.
 http://repository.cloudifysource.org/cloudify/components/logstash-filter-json_encode-0.1.5.gem
 http://repository.cloudifysource.org/cloudify/components/postgresql-9.4.1212.jar
 https://cloudify-release-eu.s3.amazonaws.com/cloudify/4.3.0/.dev1-release/cloudify-amqp-influx-4.3.0-.dev1.x86_64.rpm
-https://cloudify-release-eu.s3.amazonaws.com/cloudify/18.1.25/build/cloudify-cli-18.1.25~community.el6.x86_64.rpm
+https://cloudify-release-eu.s3.amazonaws.com/cloudify/18.1.25/release/cloudify-cli-18.1.25~community.el6.x86_64.rpm
 https://cloudify-release-eu.s3.amazonaws.com/cloudify/4.3.0/.dev1-release/cloudify-stage-4.3.0-.dev1.tgz
 https://cloudify-release-eu.s3.amazonaws.com/cloudify/4.3.0/.dev1-release/cloudify-blueprint-composer-4.3.0-.dev1.tgz
 https://cloudify-release-eu.s3.amazonaws.com/cloudify/4.3.0/.dev1-release/cloudify-manager-4.3.dev1.tar.gz
