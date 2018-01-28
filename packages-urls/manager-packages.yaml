@@ -27,7 +27,6 @@ https://cloudify-release-eu.s3.amazonaws.com/cloudify/4.3/.dev1-release/cloudify
 https://cloudify-release-eu.s3.amazonaws.com/cloudify/4.3/.dev1-release/cloudify-amqp-influx-4.3-dev1.el7.x86_64.rpm
 https://cloudify-release-eu.s3.amazonaws.com/cloudify/4.3/.dev1-release/cloudify-logstash-4.3-dev1.el7.x86_64.rpm
 https://cloudify-release-eu.s3.amazonaws.com/cloudify/4.3/.dev1-release/cloudify-rest-service-4.3-dev1.el7.x86_64.rpm
-https://cloudify-release-eu.s3.amazonaws.com/cloudify/4.3/.dev1-release/cloudify-premium-4.3-dev1.el7.x86_64.rpm
 https://cloudify-release-eu.s3.amazonaws.com/cloudify/4.3/.dev1-release/cloudify-rabbitmq-4.3-dev1.el7.noarch.rpm
 https://cloudify-release-eu.s3.amazonaws.com/cloudify/4.3/.dev1-release/cloudify-management-worker-4.3-dev1.el7.x86_64.rpm
 https://cloudify-release-eu.s3.amazonaws.com/cloudify/4.3/.dev1-release/cloudify-manager-ip-setter-4.3-dev1.el7.noarch.rpm
