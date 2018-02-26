@@ -1,6 +1,6 @@
 #!/bin/bash
 
-export VERSION="28.2.15"
+export VERSION="18.2.28"
 export PRERELEASE="community"
 export AWS_S3_BUCKET="cloudify-release-eu"
 export AWS_S3_PATH="cloudify/${VERSION}/build"
