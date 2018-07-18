@@ -1,5 +1,5 @@
 http://repository.cloudifysource.org/cloudify/components/python-pip-7.1.0-1.el7.noarch.rpm
-http://repository.cloudifysource.org/cloudify/components/jre1.8.0_45-1.8.0_45-fcs.x86_64.rpm
+http://repository.cloudifysource.org/cloudify/components/jre-8u162-linux-x64.rpm
 http://repository.cloudifysource.org/cloudify/components/socat-1.7.3.2-2.el7.x86_64.rpm
 http://repository.cloudifysource.org/cloudify/components/erlang-21.0.2-1.el7.centos.x86_64.rpm
 http://repository.cloudifysource.org/cloudify/components/rabbitmq-server-3.7.7-1.el7.noarch.rpm
