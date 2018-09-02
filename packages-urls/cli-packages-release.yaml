@@ -1,0 +1,10 @@
+
+cli_packages_urls:
+     windows_cli_package_url: http://repository.cloudifysource.org/cloudify/18.9.6/community-release/cloudify-cli-community-18.9.6.exe
+     rhel_centos_cli_package_url: http://repository.cloudifysource.org/cloudify/18.9.6/community-release/cloudify-cli-community-18.9.6.rpm
+     debian_cli_package_url: http://repository.cloudifysource.org/cloudify/18.9.6/community-release/cloudify-cli-community-18.9.6.deb
+     osx_cli_package_url: http://repository.cloudifysource.org/cloudify/18.9.6/community-release/cloudify-cli-community-18.9.6.pkg
+
+
+
+
