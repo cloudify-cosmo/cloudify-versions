@@ -48,8 +48,8 @@ plugins:
     wgn_url: http://repository.cloudifysource.org/cloudify/wagons/cloudify-vsphere-plugin/2.3.0/cloudify_vsphere_plugin-2.3.0-py27-none-linux_x86_64-redhat-Maipo.wgn
     plugin_yaml_url: http://www.getcloudify.org/spec/vsphere-plugin/2.3.0/plugin.yaml
   - name: managed_nagios_plugin
-    wgn_url: http://repository.cloudifysource.org/cloudify/wagons/cloudify-managed-nagios-plugin/1.0.1/cloudify_managed_nagios_plugin-1.0.1-py27-none-linux_x86_64-centos-Core.wgn
-    plugin_yaml_url: http://www.getcloudify.org/spec/managed-nagios-plugin/1.0.1/plugin.yaml
+    wgn_url: http://repository.cloudifysource.org/cloudify/wagons/cloudify-managed-nagios-plugin/1.0.2/cloudify_managed_nagios_plugin-1.0.2-py27-none-linux_x86_64-centos-Core.wgn
+    plugin_yaml_url: http://www.getcloudify.org/spec/managed-nagios-plugin/1.0.2/plugin.yaml
   - name: nagiosrest_plugin
     wgn_url: http://repository.cloudifysource.org/cloudify/wagons/cloudify-nagiosrest-plugin/1.0.0/cloudify_nagiosrest_plugin-1.0.0-py27-none-linux_x86_64-centos-Core.wgn
     plugin_yaml_url: http://www.getcloudify.org/spec/nagiosrest-plugin/1.0.0/plugin.yaml
