@@ -1,8 +1,8 @@
 cli_packages_urls:
-     windows_cli_package_url: http://repository.cloudifysource.org/cloudify/19.07.18/community-release/cloudify-cli-community-19.07.18.exe
-     rhel_centos_cli_package_url: http://repository.cloudifysource.org/cloudify/19.07.18/community-release/cloudify-cli-community-19.07.18.rpm
-     debian_cli_package_url: http://repository.cloudifysource.org/cloudify/19.07.18/community-release/cloudify-cli-community-19.07.18.deb
-     osx_cli_package_url: http://repository.cloudifysource.org/cloudify/19.07.18/community-release/cloudify-cli-community-19.07.18.pkg
+     windows_cli_package_url: http://repository.cloudifysource.org/cloudify/19.08.08/community-release/cloudify-cli-community-19.08.08.exe
+     rhel_centos_cli_package_url: http://repository.cloudifysource.org/cloudify/19.08.08/community-release/cloudify-cli-community-19.08.08.rpm
+     debian_cli_package_url: http://repository.cloudifysource.org/cloudify/19.08.08/community-release/cloudify-cli-community-19.08.08.deb
+     osx_cli_package_url: http://repository.cloudifysource.org/cloudify/19.08.08/community-release/cloudify-cli-community-19.08.08.pkg
 
 
 
