@@ -21,6 +21,3 @@ https://cloudify-release-eu.s3.amazonaws.com/cloudify/5.0.5/.dev1-release/cloudi
 https://cloudify-release-eu.s3.amazonaws.com/cloudify/5.0.5/.dev1-release/cloudify-management-worker-5.0.5-.dev1.el7.x86_64.rpm
 https://cloudify-release-eu.s3.amazonaws.com/cloudify/5.0.5/.dev1-release/cloudify-manager-ip-setter-5.0.5-.dev1.el7.noarch.rpm
 https://cloudify-release-eu.s3.amazonaws.com/cloudify/5.0.5/.dev1-release/cloudify-hello-world-example-5.0.5.dev1.tar.gz
-https://cloudify-release-eu.s3.amazonaws.com/cloudify/5.0.5/.dev1-release/libestr-0.1.9-2.el7.x86_64.rpm
-https://cloudify-release-eu.s3.amazonaws.com/cloudify/5.0.5/.dev1-release/libfastjson-0.99.4-3.el7.x86_64.rpm
-https://cloudify-release-eu.s3.amazonaws.com/cloudify/5.0.5/.dev1-release/rsyslog-8.24.0-41.el7_7.x86_64.rpm
