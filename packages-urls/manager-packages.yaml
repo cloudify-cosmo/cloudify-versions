@@ -12,6 +12,9 @@ http://repository.cloudifysource.org/cloudify/components/postgresql95-server-9.5
 http://repository.cloudifysource.org/cloudify/components/postgresql95-devel-9.5.3-2PGDG.rhel7.x86_64.rpm
 http://repository.cloudifysource.org/cloudify/components/python-psycopg2-2.5.1-3.el7.x86_64.rpm
 http://repository.cloudifysource.org/cloudify/components/patch-2.7.1-10.el7_5.x86_64.rpm
+http://repository.cloudifysource.org/cloudify/components/libestr-0.1.9-2.el7.x86_64.rpm
+http://repository.cloudifysource.org/cloudify/components/libfastjson-0.99.4-3.el7.x86_64.rpm
+http://repository.cloudifysource.org/cloudify/components/rsyslog-8.24.0-41.el7_7.x86_64.rpm
 https://cloudify-release-eu.s3.amazonaws.com/cloudify/19.10.13/release/cloudify-cli-19.10.13~community.el6.x86_64.rpm
 https://cloudify-release-eu.s3.amazonaws.com/cloudify/5.0.5/.dev1-release/cloudify-stage-5.0.5-.dev1.tgz
 https://cloudify-release-eu.s3.amazonaws.com/cloudify/5.0.5/.dev1-release/metadata.json
