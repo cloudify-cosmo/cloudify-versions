@@ -1,7 +1,7 @@
 cli_packages_urls:
-     windows_cli_package_url: http://repository.cloudifysource.org/cloudify/20.02.23/community-release/cloudify-cli-community-20.02.23.exe
-     rhel_centos_cli_package_url: http://repository.cloudifysource.org/cloudify/20.02.23/community-release/cloudify-cli-community-20.02.23.rpm
-     debian_cli_package_url: http://repository.cloudifysource.org/cloudify/20.02.23/community-release/cloudify-cli-community-20.02.23.deb
+     windows_cli_package_url: http://repository.cloudifysource.org/cloudify/20.03.18/community-release/cloudify-cli-community-20.03.18.exe
+     rhel_centos_cli_package_url: http://repository.cloudifysource.org/cloudify/20.03.18/community-release/cloudify-cli-community-20.03.18.rpm
+     debian_cli_package_url: http://repository.cloudifysource.org/cloudify/20.03.18/community-release/cloudify-cli-community-20.03.18.deb
 
 
 
