@@ -3,7 +3,7 @@ http://repository.cloudifysource.org/cloudify/components/erlang-21.0.2-1.el7.cen
 http://repository.cloudifysource.org/cloudify/components/rabbitmq-server-3.7.7-1.el7.noarch.rpm
 http://repository.cloudifysource.org/cloudify/components/nginx-1.13.7-1.el7_4.ngx.x86_64.rpm
 http://repository.cloudifysource.org/cloudify/components/daemonize-1.7.3-7.el7.x86_64.rpm
-http://repository.cloudifysource.org/cloudify/components/node-v12.16.1-linux-x64.tar.xz
+http://repository.cloudifysource.org/cloudify/components/nodejs-12.16.1-1nodesource.x86_64.rpm
 http://repository.cloudifysource.org/cloudify/components/libxslt-1.1.28-5.el7.x86_64.rpm
 http://repository.cloudifysource.org/cloudify/components/postgresql95-9.5.3-2PGDG.rhel7.x86_64.rpm
 http://repository.cloudifysource.org/cloudify/components/postgresql95-contrib-9.5.3-2PGDG.rhel7.x86_64.rpm
@@ -13,7 +13,7 @@ http://repository.cloudifysource.org/cloudify/components/postgresql95-devel-9.5.
 http://repository.cloudifysource.org/cloudify/components/python-psycopg2-2.5.1-3.el7.x86_64.rpm
 http://repository.cloudifysource.org/cloudify/components/patch-2.7.1-10.el7_5.x86_64.rpm
 https://cloudify-release-eu.s3.amazonaws.com/cloudify/5.1.0/.dev1-release/cloudify-cli-5.1.0-.dev1.el7.x86_64.rpm
-https://cloudify-release-eu.s3.amazonaws.com/cloudify/5.1.0/.dev1-release/cloudify-stage-5.1.0-.dev1.tgz
+https://cloudify-release-eu.s3.amazonaws.com/cloudify/5.1.0/.dev1-release/cloudify-stage-5.1.0-.dev1.el7.x86_64.rpm
 https://cloudify-release-eu.s3.amazonaws.com/cloudify/5.1.0/.dev1-release/metadata.json
 https://cloudify-release-eu.s3.amazonaws.com/cloudify/5.1.0/.dev1-release/cloudify-agents-5.1.0-.dev1.el7.noarch.rpm
 https://cloudify-release-eu.s3.amazonaws.com/cloudify/5.1.0/.dev1-release/cloudify-rest-service-5.1.0-.dev1.el7.x86_64.rpm
