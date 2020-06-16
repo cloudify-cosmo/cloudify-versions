@@ -21,3 +21,7 @@ https://cloudify-release-eu.s3.amazonaws.com/cloudify/5.1.0/.dev1-release/cloudi
 https://cloudify-release-eu.s3.amazonaws.com/cloudify/5.1.0/.dev1-release/cloudify-management-worker-5.1.0-.dev1.el7.x86_64.rpm
 https://cloudify-release-eu.s3.amazonaws.com/cloudify/5.1.0/.dev1-release/cloudify-manager-ip-setter-5.1.0-.dev1.el7.noarch.rpm
 https://cloudify-release-eu.s3.amazonaws.com/cloudify/5.1.0/.dev1-release/cloudify-hello-world-example-5.1.0.dev1.tar.gz
+https://cloudify-release-eu.s3.amazonaws.com/cloudify/5.1.0/.dev1-release/prometheus-2.18.1-1.el7.x86_64.rpm
+https://cloudify-release-eu.s3.amazonaws.com/cloudify/5.1.0/.dev1-release/postgres_exporter-0.8.0-1.el7.x86_64.rpm
+https://cloudify-release-eu.s3.amazonaws.com/cloudify/5.1.0/.dev1-release/blackbox_exporter-0.16.0-1.el7.x86_64.rpm
+https://cloudify-release-eu.s3.amazonaws.com/cloudify/5.1.0/.dev1-release/node_exporter-1.0.0-1.el7.x86_64.rpm
