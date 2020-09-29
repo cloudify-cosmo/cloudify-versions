@@ -1,4 +1,4 @@
-cli_premium_packages_urls:
+cli_packages_urls:
      windows_cli_package_url: http://cloudify-release-eu.s3.amazonaws.com/cloudify/5.1.0/.dev1-release/cloudify-windows-cli_5.1.0-.dev1.exe
      rhel_centos_cli_package_url: http://cloudify-release-eu.s3.amazonaws.com/cloudify/5.1.0/.dev1-release/cloudify-cli-5.1.0-.dev1.el7.x86_64.rpm
      debian_cli_package_url: http://cloudify-release-eu.s3.amazonaws.com/cloudify/5.1.0/.dev1-release/cloudify-cli_5.1.0-.dev1_amd64.deb
