@@ -5,11 +5,11 @@ https://repository.cloudifysource.org/cloudify/components/nginx-1.13.7-1.el7_4.n
 https://repository.cloudifysource.org/cloudify/components/daemonize-1.7.3-7.el7.x86_64.rpm
 https://repository.cloudifysource.org/cloudify/components/nodejs-12.16.1-1nodesource.x86_64.rpm
 https://repository.cloudifysource.org/cloudify/components/libxslt-1.1.28-5.el7.x86_64.rpm
-ftp://ftp.pbone.net/mirror/ftp.postgresql.org/pub/repos/yum/9.5/redhat/rhel-7-x86_64/postgresql95-9.5.25-1PGDG.rhel7.x86_64.rpm
-ftp://ftp.pbone.net/mirror/ftp.postgresql.org/pub/repos/yum/9.5/redhat/rhel-7-x86_64/postgresql95-contrib-9.5.25-1PGDG.rhel7.x86_64.rpm
-ftp://ftp.pbone.net/mirror/ftp.postgresql.org/pub/repos/yum/9.5/redhat/rhel-7-x86_64/postgresql95-libs-9.5.25-1PGDG.rhel7.x86_64.rpm
-ftp://ftp.pbone.net/mirror/ftp.postgresql.org/pub/repos/yum/9.5/redhat/rhel-7-x86_64/postgresql95-server-9.5.25-1PGDG.rhel7.x86_64.rpm
-ftp://ftp.pbone.net/mirror/ftp.postgresql.org/pub/repos/yum/9.5/redhat/rhel-7-x86_64/postgresql95-devel-9.5.25-1PGDG.rhel7.x86_64.rpm
+https://repository.cloudifysource.org/cloudify/components/postgresql95-9.5.25-1PGDG.rhel7.x86_64.rpm
+https://repository.cloudifysource.org/cloudify/components/postgresql95-contrib-9.5.25-1PGDG.rhel7.x86_64.rpm
+https://repository.cloudifysource.org/cloudify/components/postgresql95-libs-9.5.25-1PGDG.rhel7.x86_64.rpm
+https://repository.cloudifysource.org/cloudify/components/postgresql95-server-9.5.25-1PGDG.rhel7.x86_64.rpm
+https://repository.cloudifysource.org/cloudify/components/postgresql95-devel-9.5.25-1PGDG.rhel7.x86_64.rpm
 https://repository.cloudifysource.org/cloudify/components/python-psycopg2-2.5.1-3.el7.x86_64.rpm
 https://repository.cloudifysource.org/cloudify/components/patch-2.7.1-10.el7_5.x86_64.rpm
 https://repository.cloudifysource.org/cloudify/components/haveged-1.9.13-1.el7.x86_64.rpm
