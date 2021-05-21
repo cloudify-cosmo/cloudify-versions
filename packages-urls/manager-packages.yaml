@@ -3,7 +3,7 @@ https://repository.cloudifysource.org/cloudify/components/erlang-23.0.2-1.el7.x8
 https://repository.cloudifysource.org/cloudify/components/rabbitmq-server-3.8.4-1.el7.noarch.rpm
 https://repository.cloudifysource.org/cloudify/components/nginx-1.19.9-1.el7.ngx.x86_64.rpm
 https://repository.cloudifysource.org/cloudify/components/daemonize-1.7.3-7.el7.x86_64.rpm
-https://repository.cloudifysource.org/cloudify/components/nodejs-12.16.1-1nodesource.x86_64.rpm
+https://repository.cloudifysource.org/cloudify/components/nodejs-12.22.1-1nodesource.x86_64.rpm
 https://repository.cloudifysource.org/cloudify/components/libxslt-1.1.28-5.el7.x86_64.rpm
 https://repository.cloudifysource.org/cloudify/components/postgresql95-9.5.25-1PGDG.rhel7.x86_64.rpm
 https://repository.cloudifysource.org/cloudify/components/postgresql95-contrib-9.5.25-1PGDG.rhel7.x86_64.rpm
