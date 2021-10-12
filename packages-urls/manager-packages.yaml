@@ -16,7 +16,7 @@ https://repository.cloudifysource.org/cloudify/components/haveged-1.9.13-1.el7.x
 https://cloudify-release-eu.s3.amazonaws.com/cloudify/5.2.7/ga-release/cloudify-cli-5.2.7-ga.el7.x86_64.rpm
 https://cloudify-release-eu.s3.amazonaws.com/cloudify/5.2.7/ga-release/cloudify-stage-5.2.7-ga.el7.x86_64.rpm
 https://cloudify-release-eu.s3.amazonaws.com/cloudify/5.2.7/ga-release/metadata.json
-https://cloudify-release-eu.s3.amazonaws.com/cloudify/5.2.7/ga-release/cloudify-agents-5.2.7-ga.el7.centos.noarch.rpm
+https://cloudify-release-eu.s3.amazonaws.com/cloudify/5.2.7/ga-release/cloudify-agents-5.2.7-ga.el7.noarch.rpm
 https://cloudify-release-eu.s3.amazonaws.com/cloudify/5.2.7/ga-release/cloudify-rest-service-5.2.7-ga.el7.x86_64.rpm
 https://cloudify-release-eu.s3.amazonaws.com/cloudify/5.2.7/ga-release/cloudify-rabbitmq-5.2.7-ga.el7.noarch.rpm
 https://cloudify-release-eu.s3.amazonaws.com/cloudify/5.2.7/ga-release/cloudify-management-worker-5.2.7-ga.el7.x86_64.rpm
