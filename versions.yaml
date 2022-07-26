@@ -8,4 +8,4 @@ components:
   cloudify-openstack-plugin: '2.0.1'
   cloudify-psutil-plugin: '1.0.2'
   cloudify-vsphere-plugin: '2.4.0'
-  default_tosca_definitions_version: '1_3'
+  default_tosca_definitions_version: '1_4'
