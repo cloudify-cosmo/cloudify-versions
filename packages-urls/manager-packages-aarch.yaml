@@ -1,7 +1,7 @@
 http://mirror.centos.org/altarch/7/os/aarch64/Packages/logrotate-3.8.6-19.el7.aarch64.rpm
 http://mirror.centos.org/altarch/7/os/aarch64/Packages/socat-1.7.3.2-2.el7.aarch64.rpm
-https://packages.erlang-solutions.com/erlang/rpm/centos/7/aarch64/esl-erlang_23.0.2-1~centos~7_arm64.rpm
-https://repository.cloudifysource.org/cloudify/components/rabbitmq-server-3.8.4-1.el7.noarch.rpm
+https://packages.erlang-solutions.com/rpm/centos/7/aarch64/esl-erlang_24.2.1-1~centos~7_arm64.rpm
+https://repository.cloudifysource.org/cloudify/components/rabbitmq-server-3.10.7-1.el8.noarch.rpm
 http://nginx.org/packages/mainline/centos/7/aarch64/RPMS/nginx-1.19.9-1.el7.ngx.aarch64.rpm
 https://download-ib01.fedoraproject.org/pub/epel/7/aarch64/Packages/d/daemonize-1.7.7-1.el7.aarch64.rpm
 https://rpm.nodesource.com/pub_14.x/el/7/aarch64/nodejs-14.18.1-1nodesource.aarch64.rpm
