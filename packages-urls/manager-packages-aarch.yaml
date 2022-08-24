@@ -4,7 +4,7 @@ https://packages.erlang-solutions.com/rpm/centos/7/aarch64/esl-erlang_24.2.1-1~c
 https://repository.cloudifysource.org/cloudify/components/rabbitmq-server-3.10.7-1.el8.noarch.rpm
 https://repository.cloudifysource.org/cloudify/components/libtool-ltdl-2.4.2-22.el7_3.aarch64.rpm
 https://repository.cloudifysource.org/cloudify/components/unixODBC-2.3.1-14.el7.aarch64.rpm
-http://nginx.org/packages/mainline/centos/7/aarch64/RPMS/nginx-1.19.9-1.el7.ngx.aarch64.rpm
+https://nginx.org/packages/centos/7/aarch64/RPMS/nginx-1.22.0-1.el7.ngx.aarch64.rpm
 https://download-ib01.fedoraproject.org/pub/epel/7/aarch64/Packages/d/daemonize-1.7.7-1.el7.aarch64.rpm
 https://rpm.nodesource.com/pub_14.x/el/7/aarch64/nodejs-14.18.1-1nodesource.aarch64.rpm
 http://mirror.centos.org/altarch/7/os/aarch64/Packages/libxslt-1.1.28-6.el7.aarch64.rpm
