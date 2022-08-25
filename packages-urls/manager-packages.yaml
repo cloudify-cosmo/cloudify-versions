@@ -4,6 +4,7 @@ https://repository.cloudifysource.org/cloudify/components/esl-erlang_25.0.3-1~ce
 https://repository.cloudifysource.org/cloudify/components/rabbitmq-server-3.10.7-1.el8.noarch.rpm
 https://repository.cloudifysource.org/cloudify/components/libtool-ltdl-2.4.2-22.el7_3.x86_64.rpm
 https://repository.cloudifysource.org/cloudify/components/unixODBC-2.3.1-14.el7.x86_64.rpm
+http://mirror.centos.org/centos/7/os/x86_64/Packages/pcre2-10.23-2.el7.x86_64.rpm
 https://nginx.org/packages/centos/7/x86_64/RPMS/nginx-1.22.0-1.el7.ngx.x86_64.rpm
 https://repository.cloudifysource.org/cloudify/components/daemonize-1.7.3-7.el7.x86_64.rpm
 https://repository.cloudifysource.org/cloudify/components/nodejs-16.16.0-1nodesource.x86_64.rpm
