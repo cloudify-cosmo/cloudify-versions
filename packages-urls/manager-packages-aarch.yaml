@@ -14,6 +14,9 @@ https://apt.postgresql.org/pub/repos/yum/9.5/redhat/rhel-7-aarch64/postgresql95-
 http://mirror.centos.org/altarch/7/os/aarch64/Packages/python-psycopg2-2.5.1-4.el7.aarch64.rpm
 http://mirror.centos.org/altarch/7/os/aarch64/Packages/patch-2.7.1-12.el7_7.aarch64.rpm
 http://mirror.centos.org/altarch/7/os/aarch64/Packages/haproxy-1.5.18-9.el7.aarch64.rpm
+http://mirror.centos.org/altarch/7/os/aarch64/Packages/libestr-0.1.9-2.el7.aarch64.rpm
+http://mirror.centos.org/altarch/7/os/aarch64/Packages/libfastjson-0.99.4-3.el7.aarch64.rpm
+http://mirror.centos.org/altarch/7/os/aarch64/Packages/rsyslog-8.24.0-55.el7.aarch64.rpm
 https://download-ib01.fedoraproject.org/pub/epel/7/aarch64/Packages/h/haveged-1.9.1-1.el7.aarch64.rpm
 https://cloudify-release-eu.s3.amazonaws.com/cloudify/6.4.1/ga-release/cloudify-cli-6.4.1-ga.el7.aarch64.rpm
 https://cloudify-release-eu.s3.amazonaws.com/cloudify/6.4.1/ga-release/cloudify-stage-6.4.1-ga.el7.aarch64.rpm
