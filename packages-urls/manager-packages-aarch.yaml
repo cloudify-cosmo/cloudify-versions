@@ -1,9 +1,8 @@
 http://mirror.centos.org/altarch/7/os/aarch64/Packages/logrotate-3.8.6-19.el7.aarch64.rpm
 http://mirror.centos.org/altarch/7/os/aarch64/Packages/libtool-ltdl-2.4.2-22.el7_3.aarch64.rpm
-https://packages.erlang-solutions.com/erlang/rpm/centos/7/aarch64/esl-erlang_23.0.2-1~centos~7_arm64.rpm
-https://repository.cloudifysource.org/cloudify/components/rabbitmq-server-3.8.4-1.el7.noarch.rpm
-http://nginx.org/packages/mainline/centos/7/aarch64/RPMS/nginx-1.19.9-1.el7.ngx.aarch64.rpm
-https://download-ib01.fedoraproject.org/pub/epel/7/aarch64/Packages/d/daemonize-1.7.7-1.el7.aarch64.rpm
+https://repository.cloudifysource.org/cloudify/components/esl-erlang_23.3.4.5-1~centos~7_arm64.rpm
+https://repository.cloudifysource.org/cloudify/components/rabbitmq-server-3.8.30-1.el7.noarch.rpm
+https://repository.cloudifysource.org/cloudify/components/nginx-1.23.1-1.el7.ngx.aarch64.rpm
 https://rpm.nodesource.com/pub_14.x/el/7/aarch64/nodejs-14.18.1-1nodesource.aarch64.rpm
 http://mirror.centos.org/altarch/7/os/aarch64/Packages/libxslt-1.1.28-6.el7.aarch64.rpm
 https://apt.postgresql.org/pub/repos/yum/9.5/redhat/rhel-7-aarch64/postgresql95-9.5.25-1PGDG.rhel7.aarch64.rpm
@@ -11,9 +10,6 @@ https://apt.postgresql.org/pub/repos/yum/9.5/redhat/rhel-7-aarch64/postgresql95-
 https://apt.postgresql.org/pub/repos/yum/9.5/redhat/rhel-7-aarch64/postgresql95-libs-9.5.25-1PGDG.rhel7.aarch64.rpm
 https://apt.postgresql.org/pub/repos/yum/9.5/redhat/rhel-7-aarch64/postgresql95-server-9.5.25-1PGDG.rhel7.aarch64.rpm
 https://apt.postgresql.org/pub/repos/yum/9.5/redhat/rhel-7-aarch64/postgresql95-devel-9.5.25-1PGDG.rhel7.aarch64.rpm
-http://mirror.centos.org/altarch/7/os/aarch64/Packages/python-psycopg2-2.5.1-4.el7.aarch64.rpm
-http://mirror.centos.org/altarch/7/os/aarch64/Packages/patch-2.7.1-12.el7_7.aarch64.rpm
-http://mirror.centos.org/altarch/7/os/aarch64/Packages/haproxy-1.5.18-9.el7.aarch64.rpm
 http://mirror.centos.org/altarch/7/os/aarch64/Packages/libestr-0.1.9-2.el7.aarch64.rpm
 http://mirror.centos.org/altarch/7/os/aarch64/Packages/libfastjson-0.99.4-3.el7.aarch64.rpm
 http://mirror.centos.org/altarch/7/os/aarch64/Packages/rsyslog-8.24.0-55.el7.aarch64.rpm
@@ -25,10 +21,10 @@ https://cloudify-release-eu.s3.amazonaws.com/cloudify/6.4.1/ga-release/cloudify-
 https://cloudify-release-eu.s3.amazonaws.com/cloudify/6.4.1/ga-release/cloudify-rest-service-6.4.1-ga.el7.aarch64.rpm
 https://cloudify-release-eu.s3.amazonaws.com/cloudify/6.4.1/ga-release/cloudify-rabbitmq-6.4.1-ga.el7.noarch.rpm
 https://cloudify-release-eu.s3.amazonaws.com/cloudify/6.4.1/ga-release/cloudify-management-worker-6.4.1-ga.el7.aarch64.rpm
-https://cloudify-release-eu.s3.amazonaws.com/cloudify/6.4.1/ga-release/prometheus-2.30.1-1.el7.aarch64.rpm
-https://cloudify-release-eu.s3.amazonaws.com/cloudify/6.4.1/ga-release/postgres_exporter-0.10.0-1.el7.aarch64.rpm
-https://cloudify-release-eu.s3.amazonaws.com/cloudify/6.4.1/ga-release/blackbox_exporter-0.19.0-1.el7.aarch64.rpm
-https://cloudify-release-eu.s3.amazonaws.com/cloudify/6.4.1/ga-release/node_exporter-1.2.2-1.el7.aarch64.rpm
+https://cloudify-release-eu.s3.amazonaws.com/cloudify/6.4.1/ga-release/prometheus-2.39.1-1.el7.aarch64.rpm
+https://cloudify-release-eu.s3.amazonaws.com/cloudify/6.4.1/ga-release/postgres_exporter-0.11.1-1.el7.aarch64.rpm
+https://cloudify-release-eu.s3.amazonaws.com/cloudify/6.4.1/ga-release/blackbox_exporter-0.22.0-1.el7.aarch64.rpm
+https://cloudify-release-eu.s3.amazonaws.com/cloudify/6.4.1/ga-release/node_exporter-1.4.0-1.el7.aarch64.rpm
 # arch64 only rpms
 http://mirror.centos.org/altarch/7/os/aarch64/Packages/socat-1.7.3.2-2.el7.aarch64.rpm 
 http://mirror.centos.org/altarch/7/os/aarch64/Packages/unixODBC-2.3.1-14.el7.aarch64.rpm
