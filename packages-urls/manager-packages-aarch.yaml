@@ -10,11 +10,11 @@ https://download-ib01.fedoraproject.org/pub/epel/7/aarch64/Packages/d/daemonize-
 https://rpm.nodesource.com/pub_14.x/el/7/aarch64/nodejs-14.18.1-1nodesource.aarch64.rpm
 http://mirror.centos.org/altarch/7/os/aarch64/Packages/libxslt-1.1.28-6.el7.aarch64.rpm
 http://mirror.centos.org/altarch/7/os/aarch64/Packages/libicu-50.2-4.el7_7.aarch64.rpm
-https://download.postgresql.org/pub/repos/yum/14/redhat/rhel-7-aarch64/postgresql14-14.4-1PGDG.rhel7.aarch64.rpm
-https://download.postgresql.org/pub/repos/yum/14/redhat/rhel-7-aarch64/postgresql14-contrib-14.4-1PGDG.rhel7.aarch64.rpm
-https://download.postgresql.org/pub/repos/yum/14/redhat/rhel-7-aarch64/postgresql14-devel-14.4-1PGDG.rhel7.aarch64.rpm
-https://download.postgresql.org/pub/repos/yum/14/redhat/rhel-7-aarch64/postgresql14-libs-14.4-1PGDG.rhel7.aarch64.rpm
-https://download.postgresql.org/pub/repos/yum/14/redhat/rhel-7-aarch64/postgresql14-server-14.4-1PGDG.rhel7.aarch64.rpm
+https://download.postgresql.org/pub/repos/yum/14/redhat/rhel-7-aarch64/postgresql14-14.6-1PGDG.rhel7.aarch64.rpm
+https://download.postgresql.org/pub/repos/yum/14/redhat/rhel-7-aarch64/postgresql14-contrib-14.6-1PGDG.rhel7.aarch64.rpm
+https://download.postgresql.org/pub/repos/yum/14/redhat/rhel-7-aarch64/postgresql14-devel-14.6-1PGDG.rhel7.aarch64.rpm
+https://download.postgresql.org/pub/repos/yum/14/redhat/rhel-7-aarch64/postgresql14-libs-14.6-1PGDG.rhel7.aarch64.rpm
+https://download.postgresql.org/pub/repos/yum/14/redhat/rhel-7-aarch64/postgresql14-server-14.6-1PGDG.rhel7.aarch64.rpm
 http://mirror.centos.org/altarch/7/os/aarch64/Packages/python-psycopg2-2.5.1-4.el7.aarch64.rpm
 http://mirror.centos.org/altarch/7/os/aarch64/Packages/patch-2.7.1-12.el7_7.aarch64.rpm
 http://mirror.centos.org/altarch/7/os/aarch64/Packages/haproxy-1.5.18-9.el7.aarch64.rpm
