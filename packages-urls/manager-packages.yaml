@@ -12,9 +12,6 @@ https://repository.cloudifysource.org/cloudify/components/postgresql95-libs-9.5.
 https://repository.cloudifysource.org/cloudify/components/postgresql95-server-9.5.25-1PGDG.rhel7.x86_64.rpm
 https://repository.cloudifysource.org/cloudify/components/postgresql95-devel-9.5.25-1PGDG.rhel7.x86_64.rpm
 https://repository.cloudifysource.org/cloudify/components/haveged-1.9.13-1.el7.x86_64.rpm
-https://repository.cloudifysource.org/cloudify/components/libestr-0.1.9-2.el7.x86_64.rpm
-https://repository.cloudifysource.org/cloudify/components/libfastjson-0.99.4-3.el7.x86_64.rpm
-https://repository.cloudifysource.org/cloudify/components/rsyslog-8.24.0-57.el7_9.3.x86_64.rpm
 https://cloudify-release-eu.s3.amazonaws.com/cloudify/6.4.1/ga-release/cloudify-cli-6.4.1-ga.el7.x86_64.rpm
 https://cloudify-release-eu.s3.amazonaws.com/cloudify/6.4.1/ga-release/cloudify-stage-6.4.1-ga.el7.x86_64.rpm
 https://cloudify-release-eu.s3.amazonaws.com/cloudify/6.4.1/ga-release/metadata.json
