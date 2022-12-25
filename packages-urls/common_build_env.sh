@@ -1,6 +1,6 @@
 #!/bin/bash
 
-export VERSION="6.4.1"
-export PRERELEASE="ga"
+export VERSION="6.4.2"
+export PRERELEASE=".dev1"
 export AWS_S3_BUCKET="cloudify-release-eu"
 export AWS_S3_PATH="cloudify/${VERSION}/community"
