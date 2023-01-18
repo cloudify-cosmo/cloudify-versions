@@ -6,11 +6,11 @@ https://repository.cloudifysource.org/cloudify/components/nginx-1.23.1-1.el7.ngx
 https://repository.cloudifysource.org/cloudify/components/pcre2-10.23-2.el7.aarch64.rpm
 https://rpm.nodesource.com/pub_14.x/el/7/aarch64/nodejs-14.18.1-1nodesource.aarch64.rpm
 http://mirror.centos.org/altarch/7/os/aarch64/Packages/libxslt-1.1.28-6.el7.aarch64.rpm
-https://apt.postgresql.org/pub/repos/yum/9.5/redhat/rhel-7-aarch64/postgresql95-9.5.25-1PGDG.rhel7.aarch64.rpm
-https://apt.postgresql.org/pub/repos/yum/9.5/redhat/rhel-7-aarch64/postgresql95-contrib-9.5.25-1PGDG.rhel7.aarch64.rpm
-https://apt.postgresql.org/pub/repos/yum/9.5/redhat/rhel-7-aarch64/postgresql95-libs-9.5.25-1PGDG.rhel7.aarch64.rpm
-https://apt.postgresql.org/pub/repos/yum/9.5/redhat/rhel-7-aarch64/postgresql95-server-9.5.25-1PGDG.rhel7.aarch64.rpm
-https://apt.postgresql.org/pub/repos/yum/9.5/redhat/rhel-7-aarch64/postgresql95-devel-9.5.25-1PGDG.rhel7.aarch64.rpm
+https://repository.cloudifysource.org/cloudify/components/postgresql95-9.5.25-1PGDG.rhel7.aarch64.rpm
+https://repository.cloudifysource.org/cloudify/components/postgresql95-contrib-9.5.25-1PGDG.rhel7.aarch64.rpm
+https://repository.cloudifysource.org/cloudify/components/postgresql95-libs-9.5.25-1PGDG.rhel7.aarch64.rpm
+https://repository.cloudifysource.org/cloudify/components/postgresql95-server-9.5.25-1PGDG.rhel7.aarch64.rpm
+https://repository.cloudifysource.org/cloudify/components/postgresql95-devel-9.5.25-1PGDG.rhel7.aarch64.rpm
 http://mirror.centos.org/altarch/7/os/aarch64/Packages/libestr-0.1.9-2.el7.aarch64.rpm
 http://mirror.centos.org/altarch/7/os/aarch64/Packages/libfastjson-0.99.4-3.el7.aarch64.rpm
 http://mirror.centos.org/altarch/7/os/aarch64/Packages/rsyslog-8.24.0-55.el7.aarch64.rpm
