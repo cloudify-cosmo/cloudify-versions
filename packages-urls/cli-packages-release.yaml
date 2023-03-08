@@ -1,7 +1,7 @@
 cli_packages_urls:
-     windows_cli_package_url: http://repository.cloudifysource.org/cloudify/7.1.0/.dev1-release/cloudify-windows-cli_7.1.0-.dev1.exe
-     rhel_centos_cli_package_url: http://repository.cloudifysource.org/cloudify/7.1.0/.dev1-release/cloudify-cli-7.1.0-.dev1.el7.x86_64.rpm
-     debian_cli_package_url: http://repository.cloudifysource.org/cloudify/7.1.0/.dev1-release/cloudify-cli_7.1.0-.dev1_amd64.deb
+     windows_cli_package_url: http://repository.cloudifysource.org/cloudify/7.0.0/.dev1-release/cloudify-windows-cli_7.0.0-.dev1.exe
+     rhel_centos_cli_package_url: http://repository.cloudifysource.org/cloudify/7.0.0/.dev1-release/cloudify-cli-7.0.0-.dev1.el7.x86_64.rpm
+     debian_cli_package_url: http://repository.cloudifysource.org/cloudify/7.0.0/.dev1-release/cloudify-cli_7.0.0-.dev1_amd64.deb
 
 
 
